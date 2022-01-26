@@ -1,0 +1,6 @@
+[submodule "ThunderFinesseFrontend"]
+	path = ThunderFinesseFrontend
+	url = https://github.com/RafalZdulski/ThunderFinesseFrontend.git
+[submodule "ThunderFinesseBackend"]
+	path = ThunderFinesseBackend
+	url = https://github.com/RafalZdulski/ThunderFinesseBackend.git
