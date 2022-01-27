@@ -1,7 +1,21 @@
 # Thunder Finesse 2
 
-Is SpringBoot and Angular project for analyzing players and vehicles statistics in War Thunder. 
-uses:
+Is SpringBoot and Angular project for analyzing players and vehicles statistics in War Thunder. <br>
+
+Consist of:
+<ul>
+  <li>
+    <a href="https://github.com/RafalZdulski/ThunderFinesseFrontend">ThunderFinesseFrontend </a> - AngularJS application <br>
+    - ...
+  </li>  
+  <li>
+    <a href="https://github.com/RafalZdulski/ThunderFinesseBackendtend">ThunderFinesseBackend </a> - SpringBoot application <br>
+    - So far only connects frontend with MongoDB database and control usage of ThunderSkillPlayer submodule
+  </li>
+</ul>
+
+<br>
+Uses:
 <ul>
 <li>
 mongoDB for data storage
